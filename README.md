@@ -1,5 +1,5 @@
 # Assignment
-
+P.S. Specs have not been added yet!
 ## Table of Contents
 * [Requirements](##requirements)
 * [Initialization](##initialization)
